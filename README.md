@@ -1,4 +1,4 @@
-##Tarea 2: Sistema de Empleados con Jerarquia
+""Tarea 2: Sistema de Empleados con Jerarquia
 Explica en 5-7 lineas tu diseno y por que elegiste cada decision
 
 El sistema utiliza herencia y polimorfismo para organizar distintos tipos de empleados. 
